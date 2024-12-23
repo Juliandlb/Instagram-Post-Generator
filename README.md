@@ -81,8 +81,8 @@ This project is an AI-powered web application that generates images and captions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-image-caption-generator.git
-   cd ai-image-caption-generator
+   git clone https://github.com/Juliandlb/Instagram-Post-Generator.git
+   cd Instagram-Post-Generator
    ```
 
 2. Install dependencies:
