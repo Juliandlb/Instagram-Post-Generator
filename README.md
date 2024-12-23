@@ -1,6 +1,6 @@
 # AI Image & Caption Generator
 
-This project is an AI-powered web application that generates images and captions based on user prompts. It leverages OpenAI's DALL-E for image generation and GPT-4o mini for creating engaging captions. The application is designed to present the generated image with a concise, Instagram-ready caption that describes the image, includes relevant hashtags, and ensures the content is suitable for Instagram. 
+This project is an AI-powered web application that generates images and captions based on user prompts. It leverages OpenAI's DALL-E 3 for image generation and GPT-4o mini for creating engaging captions. The application is designed to present the generated image with a concise, Instagram-ready caption that describes the image, includes relevant hashtags, and ensures the content is suitable for Instagram. 
 
 <div align="center">
   <img src="images/Flow_Diagram.png" alt="Flow Diagram" width="50%">
